@@ -1,0 +1,208 @@
+[
+  {
+    "recipe_id": "111",
+    "image_url": "https://example.com/recipe001.jpg",
+    "name": "Spaghetti Carbonara",
+    "details": "This classic Italian dish is made with pasta, eggs, pancetta, and cheese. It's creamy, savory, and delicious!",
+    "cooking_method": "Boil pasta until al dente. Fry pancetta in a pan until crispy. Beat eggs and cheese together. Drain pasta and add it to the pan with pancetta. Turn off the heat and add the egg mixture, stirring constantly. Serve immediately.",
+    "ingredients": [
+      "1 pound spaghetti",
+      "4 eggs",
+      "1/2 pound pancetta",
+      "1 cup grated Parmesan cheese",
+      "Salt and pepper to taste"
+    ],
+    "rating": 4.5,
+    "popularity":"Recent",
+    "chefs_name":{
+      "chef1":"Julia Child",
+      "chef2":"Gordon Ramsay"
+    }
+  },
+  {
+    "recipe_id": "222",
+    "image_url": "https://example.com/recipe002.jpg",
+    "name": "Chicken Alfredo",
+    "details": "This creamy pasta dish is made with chicken, Alfredo sauce, and Parmesan cheese. It's rich and satisfying!",
+    "cooking_method": "Cook pasta until al dente. Cut chicken into small pieces and cook in a pan until browned. Add Alfredo sauce to the pan and heat through. Drain pasta and add it to the pan with the sauce. Stir in grated Parmesan cheese. Serve hot.",
+    "ingredients": [
+      "1 pound pasta",
+      "2 chicken breasts",
+      "1 jar Alfredo sauce",
+      "1 cup grated Parmesan cheese",
+      "Salt and pepper to taste"
+    ],
+    "rating": 4.2,
+    "popularity":"Random",
+    "chefs_name":{
+      "chef1":"Julia Child",
+      "chef2":"Ina Garten"
+    }
+  },
+  {
+    "recipe_id": "333",
+    "image_url": "https://example.com/recipe003.jpg",
+    "name": "Beef Stroganoff",
+    "details": "This hearty dish is made with beef, mushrooms, and sour cream. It's perfect for a cozy dinner at home!",
+    "cooking_method": "Slice beef into thin strips. Brown in a pan with onions and mushrooms. Add beef broth and simmer until meat is tender. Stir in sour cream and heat through. Serve over cooked egg noodles.",
+    "ingredients": [
+      "1 pound beef sirloin",
+      "1 onion",
+      "1 cup sliced mushrooms",
+      "1 cup beef broth",
+      "1/2 cup sour cream"
+    ],
+    "rating": 4.7,
+    "popularity":"Popular",
+    "chefs_name":{
+      "chef1":"Julia Child",
+      "chef2":"Mario Batali"
+    }
+  },
+  {
+    "recipe_id": "444",
+    "image_url": "https://example.com/recipe004.jpg",
+    "name": "Beef Tacos",
+    "details": "These tasty tacos are made with seasoned beef, shredded lettuce, cheese, and salsa. They're a crowd-pleaser!",
+    "cooking_method": "Brown ground beef in a pan with taco seasoning. Serve in warmed tortillas with shredded lettuce, cheese, and salsa.",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 packet taco seasoning",
+      "10-12 corn tortillas",
+      "2 cups shredded lettuce",
+      "1 cup shredded cheddar cheese"
+    ],
+    "rating": 4.3,
+    "popularity":"Recent",
+    "chefs_name":{
+      "chef1":"Gordon Ramsay",
+      "chef2":"Jamie Oliver"
+    }
+  },
+  {
+    "recipe_id": "555",
+    "image_url": "https://example.com/recipe005.jpg",
+    "name": "Mushroom Risotto",
+    "details": "This creamy Italian rice dish is made with mushrooms, Parmesan cheese, and white wine. It's a comforting and satisfying meal!",
+    "cooking_method": "Saute mushrooms and onions in a pan. Add Arborio rice and cook until toasted. Pour in white wine and simmer until absorbed. Gradually add chicken broth, stirring constantly, until rice is tender and creamy. Stir in grated Parmesan cheese and serve hot.",
+    "ingredients": [
+      "1 cup Arborio rice ",
+      "1/2 cup white wine ",
+      "3 cups chicken broth ",
+      "1 cup sliced mushrooms ",
+      "1/2 cup grated Parmesan cheese"
+    ],
+    "rating": 4.8,
+    "popularity":"Random",
+    "chefs_name":{
+      "chef1":"Gordon Ramsay",
+      "chef2":"Nigella Lawson"
+    }
+  },
+  {
+    "recipe_id": "666",
+    "image_url": "https://example.com/recipe006.jpg",
+    "name": "Chicken Curry",
+    "details": "This spicy Indian dish is made with chicken, curry powder, and coconut milk. It's flavorful and satisfying!",
+    "cooking_method": "Saute onions, garlic, and ginger in a pan. Add chicken and curry powder and cook until browned. Stir in canned tomatoes and coconut milk. Simmer until chicken is cooked through. Serve over rice.",
+    "ingredients": [
+      "1 pound chicken breast",
+      "1 onion",
+      "3 cloves garlic",
+      "1 tablespoon grated ginger",
+      "1 can diced tomatoes",
+      "1 can coconut milk",
+      "2 tablespoons curry powder"
+    ],
+    "rating": 4.6,
+    "popularity":"Popular",
+    "chefs_name":{
+      "chef1":"Ina Garten",
+      "chef2":"Jamie Oliver"
+    }
+  },
+  {
+    "recipe_id": "777",
+    "image_url": "https://example.com/recipe007.jpg",
+    "name": "Greek Salad",
+    "details": "This refreshing salad is made with cucumber, tomato, feta cheese, and olives. It's a great side dish or light meal!",
+    "cooking_method": "Chop cucumber, tomato, and red onion. Crumble feta cheese and slice Kalamata olives. Toss all ingredients together with olive oil and lemon juice. Season with salt and pepper to taste.",
+    "ingredients": [
+      "1 cucumber",
+      "2 tomatoes",
+      "1/2 red onion",
+      "1/2 cup crumbled feta cheese",
+      "1/2 cup Kalamata olives",
+      "2 tablespoons olive oil",
+      "1 tablespoon lemon juice"
+    ],
+    "rating": 4.1,
+    "popularity":"Recent",
+    "chefs_name":{
+      "chef1":"Ina Garten",
+      "chef2":"Nigella Lawson"
+    }
+  },
+  {
+    "recipe_id": "888",
+    "image_url": "https://example.com/recipe008.jpg",
+    "name": "Grilled Steak",
+    "details": "This juicy steak is grilled to perfection and seasoned with garlic and herbs. It's a classic and satisfying meal!",
+    "cooking_method": "Season steak with salt, pepper, garlic, and your favorite herbs. Grill over high heat until desired doneness is reached. Let rest for a few minutes before slicing and serving.",
+    "ingredients": [
+      "1 pound steak",
+      "2 cloves garlic",
+      "1 tablespoon dried herbs",
+      "Salt and pepper to taste"
+    ],
+    "rating": 4.4,
+    "popularity":"Random",
+    "chefs_name":{
+      "chef1":"Mario Batali",
+      "chef2":"Jamie Oliver"
+    }
+  },
+  {
+    "recipe_id": "999",
+    "image_url": "https://example.com/recipe009.jpg",
+    "name": "Pesto Pasta",
+    "details": "This flavorful pasta dish is made with basil pesto, cherry tomatoes, and Parmesan cheese. It's a quick and easy meal!",
+    "cooking_method": "Cook pasta according to package directions. Reserve 1/2 cup of pasta water. In a pan, saute cherry tomatoes until they start to burst. Add cooked pasta and reserved pasta water to the pan. Stir in basil pesto and grated Parmesan cheese. Serve hot.",
+    "ingredients": [
+      "1 pound pasta",
+      "1 cup basil pesto",
+      "1 pint cherry tomatoes",
+      "1/2 cup grated Parmesan cheese",
+      "Salt and pepper to taste"
+    ],
+    "rating": 4.7,
+    "popularity":"Popular",
+    "chefs_name":{
+      "chef1":"Nigella Lawson",
+      "chef2":"Mario Batali"
+    }
+  },
+  {
+    "recipe_id": "110",
+    "image_url": "https://example.com/recipe010.jpg",
+    "name": "Beef Stew",
+    "details": "This hearty stew is made with beef, carrots, potatoes, and onions. It's a comforting and filling meal for a cold day!",
+    "cooking_method": "In a Dutch oven, brown beef in oil. Add onions, garlic, and tomato paste. Cook until onions are translucent. Add carrots, potatoes, beef broth, and bay leaves. Simmer until beef is tender and vegetables are cooked through. Serve hot.",
+    "ingredients": [
+      "2 pounds beef stew meat",
+      "3 carrots",
+      "3 potatoes",
+      "1 onion",
+      "3 cloves garlic",
+      "2 tablespoons tomato paste",
+      "4 cups beef broth",
+      "2 bay leaves"
+    ],
+    "rating": 4.9,
+    "popularity":"Recent",
+    "chefs_name":{
+      "chef1":"Julia Child",
+      "chef2":"Gordon Ramsay"
+    }
+  }
+]
