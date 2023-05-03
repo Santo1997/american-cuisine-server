@@ -16,7 +16,7 @@
     "rating": 4.5,
     "popularity":"Recent",
     "chefs_name":{
-      "chef1":"Julia Child",
+      "chef1":"Thomas Keller",
       "chef2":"Gordon Ramsay"
     }
   },
@@ -36,7 +36,7 @@
     "rating": 4.3,
     "popularity":"Random",
     "chefs_name":{
-      "chef1":"Julia Child",
+      "chef1":"Thomas Keller",
       "chef2":"Ina Garten"
     }
   },
@@ -59,7 +59,7 @@
     "rating": 4.6,
     "popularity":"Popular",
     "chefs_name":{
-      "chef1":"Julia Child",
+      "chef1":"Thomas Keller",
       "chef2":"Mario Batali"
     }
   },
@@ -208,7 +208,7 @@
     "rating": 4.9,
     "popularity":"Recent",
     "chefs_name":{
-      "chef1":"Julia Child",
+      "chef1":"Thomas Keller",
       "chef2":"Gordon Ramsay"
     }
   }
